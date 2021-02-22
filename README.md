@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width:100%;">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraqwarvet31&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iraqwarvet31&show_icons=true&theme=highcontrast" />
 
