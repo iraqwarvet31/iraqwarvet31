@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraqwarvet31&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraqwarvet31&theme=onedark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iraqwarvet31&show_icons=true&theme=synthwave" />
 
 <!--
