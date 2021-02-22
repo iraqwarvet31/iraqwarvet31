@@ -4,7 +4,8 @@
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg" alt="React" width="21px" height="21px" style="max-width:100%;">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/6a4ca0a0f3389cc3e244fcc0599fd3f021a86b07/logos/nodejs.svg" width="21px" height="21px">
+<img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs.svg" alt="Nodejs" width="21px" height="21px" style="max-width:100%;">
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraqwarvet31&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iraqwarvet31&show_icons=true&theme=highcontrast" />
