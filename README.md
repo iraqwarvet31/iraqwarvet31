@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/iraqwarvet31/iraqwarvet31/master/output.gif" alt="👋 Hi there! I'm Larry" title="👋 Hi there! I'm" style="max-width:100%;">
 
 <div>
-  <img src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width:100%;">
-  <img src="https://github.com/tomchen/stack-icons/raw/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width:100%;">
-  <img src="https://github.com/tomchen/stack-icons/raw/master/logos/css-3.svg" alt="CSS3" width="21px" height="21px" style="max-width:100%;">
-  <img src="https://github.com/tomchen/stack-icons/raw/master/logos/react.svg" alt="React" width="21px" height="21px" style="max-width:100%;">
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  	<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img src="https://github.com/tomchen/stack-icons/raw/master/logos/nodejs.svg" alt="Nodejs" width="21px" height="21px" style="max-width:100%;">
   <img alt="NodeJS" src="https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&amp;style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width:100%;">
   <img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-black?style=flat-square&amp;logo=git" style="max-width:100%;">
