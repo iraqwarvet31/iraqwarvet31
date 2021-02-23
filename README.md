@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://9fjo5.csb.app/)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://9fjo5.csb.app/)" style="max-width:100%;">
+<img src="https://9fjo5.csb.app/" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://9fjo5.csb.app/)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://9fjo5.csb.app/)" style="max-width:100%;">
 
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width:100%;">
