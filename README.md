@@ -20,7 +20,8 @@
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  </div>
  <hr style="align:center;">
-  <p>GITHUB STATS</p>
+ <h3><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"><img class="emoji" alt="zap" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png"></g-emoji>
+ Github Stats
 </div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iraqwarvet31&theme=highcontrast" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=iraqwarvet31&show_icons=true&theme=highcontrast" />
