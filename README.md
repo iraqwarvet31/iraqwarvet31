@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://raw.githubusercontent.com/iraqwarvet31/iraqwarvet31/master/output.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/iraqwarvet31/iraqwarvet31/master/output.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li) style="max-width:100%;">
 
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width:100%;">
 <img src="https://github.com/tomchen/stack-icons/raw/master/logos/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width:100%;">
