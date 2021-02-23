@@ -1,4 +1,8 @@
 <img src="https://raw.githubusercontent.com/iraqwarvet31/iraqwarvet31/master/output.gif" alt="👋 Hi there! I'm Larry" title="👋 Hi there! I'm" style="max-width:100%;">
+</br>
+<h3>Tech Stack</h3>
+<hr>
+<img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">
 
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
